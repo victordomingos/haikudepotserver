@@ -47,6 +47,17 @@ environment is working.
             K dispoz&#xED;cii je aj
             <a href="/__multipage">zjednodu&#x161;en&#xE9; pou&#x17E;&#xED;vate&#x13E;sk&#xE9; rozhranie</a>.
         </div>
+        
+        <div class="unsupported-message-container">
+            Esta aplicaçao não funciona de forma adequada no seu navegador atual.
+            É possível que o seu navegador tenha o JavaScript desativado ou este navegador não é suportado.
+            As versões mais recentes dos navegadores
+            <a href="https://www.haiku-os.org/docs/userguide/pt_PT/applications/webpositive.html">WebPositive</a>,
+            <a href="https://www.mozilla.org/firefox">Firefox</a>
+            and
+            <a href="https://www.google.com/chrome/browser/">Google Chrome</a>
+            devem funcionar normalmente.  Também está <a href="/__multipage">disponível</a> uma interface de utilizador simplificada.
+        </div>
 
     </div>
 </div>
